@@ -1,0 +1,18 @@
+#user_name
+{
+    width: 500px;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #33f16c, #25d98e, #3ac118c7, #11cc11, #006494);
+}
+
+#center-allign
+{
+    background-color:rgba(147, 238, 208, 0.658);
+    margin-top: 200px;
+    width: 600px;
+    height: 30%;
+    border-radius: 15px;
+}
